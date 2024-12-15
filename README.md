@@ -2,6 +2,8 @@
 
 I am currently an aerospace engineering student at TU Delft.
 
+I am interested in machine learning for computer vision and time series data 
+
 <!--
 **madhavv197/madhavv197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
